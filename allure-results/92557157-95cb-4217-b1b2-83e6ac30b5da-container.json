@@ -1,0 +1,1 @@
+{"uuid":"92557157-95cb-4217-b1b2-83e6ac30b5da","name":"automationPracticeTests.E2EScenario","children":["97bdd6b2-19ac-4380-befd-08f32648e21c"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1621695304933,"stop":1621695323356}],"afters":[],"links":[],"start":1621695304844,"stop":1621695331029}
